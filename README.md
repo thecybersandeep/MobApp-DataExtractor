@@ -2,7 +2,7 @@
 
 > A tool for listing and extracting installed Android APKs and decrypted iOS IPAs (plus app storage) from rooted or jailbroken devices.
 
-<img width="784" alt="image" src="https://github.com/user-attachments/assets/22c46b56-b1df-4d25-ad9f-662a34fa7cc5" />
+<img width="825" alt="image" src="https://github.com/user-attachments/assets/b52f607b-203a-42a5-9b53-f3c5f404225b" />
 
 
 ## ⚠️ Important Notes
