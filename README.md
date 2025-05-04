@@ -14,6 +14,11 @@
 
 ## ⚙️ Prerequisites
 
+```
+Note: Works on macOS and Linux only.
+```
+
+
 ### Android
 
 * Device **must be rooted** (or running in an emulator with root).
@@ -32,23 +37,14 @@
   password: alpine
   ```
 
-### Host Machine
-
-* Python **3.8+**
-* Git
-* Clone this repo and install Python dependencies:
-
-  ```bash
-  git clone https://github.com/yourusername/MobApp-Data-Extractor.git
-  cd MobApp-Data-Extractor
-  pip3 install --user -r requirements.txt
-  ```
 
 ---
 
 ## 🐧 Linux & macOS Setup
 
 Install the required system packages and tools:
+
+* Clone this repo and install Python dependencies
 
 ```bash
 # Install Python dependencies
