@@ -78,6 +78,7 @@ brew install android-platform-tools libimobiledevice
 
    ```bash
    sudo su
+   passwd
    alpine
    ```
 
